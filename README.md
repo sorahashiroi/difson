@@ -1,9 +1,9 @@
-# difson
+# :deciduous_tree: difson
 
-## Overview
-**nigiriq** is a CLI tool that lets you intuitively "nigiru" (grab) and manipulate JSON data, allowing you to extract, format, and save the values you need with simple commands.
+## :bulb: Overview
+**difon** is a CLI tool to compare two JSON files and show their differences clearly.
 
-## Usage
+## :paperclip: Usage
 
 ```sh
 difson [OPTIONS] <FILE1> <FILE2>
