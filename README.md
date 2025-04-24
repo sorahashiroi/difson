@@ -20,5 +20,18 @@ OPTIONS:
 ## :file_folder: Installation
 
 ## :label: About
-### Autors
+`difson` was built to make it easy to compare JSON files in a human-readable way.
+It's especially useful for checking differences between configuration files, API responses, or exported data.
+
+This tool is:
+
+- :mag: Focused — Only does JSON diff, but does it well
+
+- :cloud: Lightweight — No heavy dependencies or setup
+
+- :laptop: Script-friendly — Works well in CI or shell pipelines
+
+Contributions, issues, and feature suggestions are welcome!
+
+## Autors
 - [Mizuki Yamano](https://github.com/sorahashiroi)
