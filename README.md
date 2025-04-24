@@ -1,9 +1,10 @@
 # :bookmark: difson
+Compare JSON files with ease
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue "MIT License")
 
 ## :pushpin: Overview
-**difon** is a CLI tool to compare two JSON files and show their differences clearly.
+**difson** is a CLI tool to compare two JSON files and show their differences clearly.
 
 ## :hammer_and_pick: Usage
 
