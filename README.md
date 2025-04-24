@@ -29,7 +29,7 @@ This tool is:
 
 - :cloud: Lightweight — No heavy dependencies or setup
 
-- :laptop: Script-friendly — Works well in CI or shell pipelines
+- :sparkles: Script-friendly — Works well in CI or shell pipelines
 
 Contributions, issues, and feature suggestions are welcome!
 
