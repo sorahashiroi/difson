@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func Example_difson() {
-		 		goMain([]string{"difson"})
+		goMain([]string{"difson"})
 }
 
 func TestHello(t *testing.T) {
