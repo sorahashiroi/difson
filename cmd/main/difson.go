@@ -1,20 +1,20 @@
 package main
 
 import (
-		"fmt"
-		"os"
+				"fmt"
+				"os"
 )
 
 func hello() string {
-		return "Welcome to Difson!"
+				return "Welcome to Difson!"
 }
 
 func goMain(args []string) int {
-		fmt.Println(hello())
-		return 0
+				fmt.Println(hello())
+				return 0
 }
 
 func main() {
-		status := goMain(os.Args)
-		os.Exit(status)
+				status := goMain(os.Args)
+				os.Exit(status)
 }
