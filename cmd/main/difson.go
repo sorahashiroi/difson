@@ -17,3 +17,4 @@ func goMain(args []string) int {
 func main() {
 	status := goMain(os.Args)
 	os.Exit(status)
+}
