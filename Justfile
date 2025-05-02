@@ -43,4 +43,4 @@ make_distribution_files:
     done
 
 upload_assets tag:
-    gh release upload --repo tamada/difson {{ tag }} dist/*.tar.gz
+    gh release upload --repo sorahashiroi/difson {{ tag }} dist/*.tar.gz
