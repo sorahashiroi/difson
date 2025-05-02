@@ -4,6 +4,8 @@ import "testing"
 
 func Example_difson() {
 		goMain([]string{"difson"})
+		// Output:
+		// Welcome to Difson!
 }
 
 func TestHello(t *testing.T) {
