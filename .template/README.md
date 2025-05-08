@@ -2,8 +2,7 @@
 Compare JSON files with ease
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue "MIT License")
-[![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/difson)](https://goreportcard.com/report/github.com/sorahashiroi/difson)
-[![Coverage Status](https://coveralls.io/repos/github/sorahashiroi/difson/badge.svg)](https://coveralls.io/github/sorahashiroi/difson)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/difson)](https://goreportcard.com/report/github.com/sorahashiroi/difson)[![Coverage Status](https://coveralls.io/repos/github/sorahashiroi/difson/badge.svg)](https://coveralls.io/github/sorahashiroi/difson)
 
 ## :pushpin: Overview
 **difson** is a CLI tool to compare two JSON files and show their differences clearly.
