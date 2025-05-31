@@ -36,3 +36,6 @@ Contributions, issues, and feature suggestions are welcome!
 
 ## Autors
 - [Mizuki Yamano](https://github.com/sorahashiroi)
+
+## icon
+![Difson Icon](./docs/assets/logo.png "difson Icon")

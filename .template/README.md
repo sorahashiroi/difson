@@ -5,7 +5,7 @@ Compare JSON files with ease
 [![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/difson)](https://goreportcard.com/report/github.com/sorahashiroi/difson)[![Coverage Status](https://coveralls.io/repos/github/sorahashiroi/difson/badge.svg)](https://coveralls.io/github/sorahashiroi/difson)
 
 ## :pushpin: Overview
-**difson** is a CLI tool to compare two JSON files and show their differences clearly.
+**difson** is a CLI tool to compare two JSON files and show their differences clearly
 
 ## :hammer_and_pick: Usage
 
@@ -36,3 +36,6 @@ Contributions, issues, and feature suggestions are welcome!
 
 ## Autors
 - [Mizuki Yamano](https://github.com/sorahashiroi)
+
+## icon
+![Difson Icon](./docs/assets/logo.png "difson Icon")
