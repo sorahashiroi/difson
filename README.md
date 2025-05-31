@@ -32,7 +32,7 @@ This tool is:
 
 - :sparkles: Script-friendly — Works well in CI or shell pipelines
 
-Contributions, issues, and feature suggestions are welcome!
+Contributions, issues, and feature suggestions are welcome!!
 
 ## Autors
 - [Mizuki Yamano](https://github.com/sorahashiroi)
