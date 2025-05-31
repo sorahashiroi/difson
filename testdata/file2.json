@@ -1,5 +1,6 @@
 {
-  "name": "Alice",
-  "age": 25,
-  "city": "Tokyo"
+  "name": "Jane",
+  "age": 30,
+  "country": "Japan",
+  "hobbies": ["reading", "traveling"]
 }
