@@ -13,7 +13,7 @@ Version := `grep '^const VERSION = ' cmd/main/version.go | sed "s/^VERSION = \"\
 
 # build the application with running tests
 build: test
-    go build -o difson cmd/main/difson.go
+    go build -o difson main.go
 
 # run tests and generate the coverage report
 test:
@@ -36,7 +36,7 @@ make_distribution_files:
     for os in "linux" "windows" "darwin"; do \
         for arch in "amd64" "arm64"; do \
             mkdir -p dist/difson-$os-$arch; \
-            env GOOS=$os GOARCH=$arch go build -o dist/difson-$os-$arch/difson cmd/main/difson.go; \
+            env GOOS=$os GOARCH=$arch go build -o dist/difson-$os-$arch/difson main.go; \
             cp README.md LICENSE dist/difson-$os-$arch; \
             tar cvfz dist/difson-$os-$arch.tar.gz -C dist difson-$os-$arch; \
         done; \
