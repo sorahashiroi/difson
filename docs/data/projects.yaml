@@ -1,0 +1,29 @@
+- title: "Difson"
+  description: "A CLI tool to compare two JSON files and show their differences clearly. Built with Go, it provides colorized output and various comparison modes."
+  username: "sorahashiroi"
+  reponame: "difson"
+  livedemo: ""
+  presentation: ""
+  features:
+    - "JSON file comparison with colored diff output"
+    - "Multiple output formats (pretty, compact, raw)"
+    - "Cross-platform compatibility (Windows, macOS, Linux)"
+    - "Fast and efficient for large JSON files"
+  stack:
+    - "go"
+    - "json"
+    - "cli"
+
+- title: "🚧pomodomu"
+  description: "pomodomu is a timer that manages work and break cycles based on the Pomodoro Technique."
+  username: "sorahashiroi"
+  reponame: "pomodomu"
+  livedemo: ""
+  presentation: ""
+  features:
+    - "Pomodoro Technique : Break work into 25-minute sessions, followed by short breaks."
+    - "After four Pomodoros, enjoy a longer break to stay refreshed and avoid burnout."
+    - "Efficiency: Just like the Dom mobile suit from Gundam, pomodomu helps you efficiently manage work and rest cycles."
+  stack:
+    - "go"
+    - "cli"

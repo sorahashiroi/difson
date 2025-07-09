@@ -10,9 +10,10 @@ import (
 )
 
 var (
-	color  bool
-	brief  bool
-	pretty bool
+	color       bool
+	brief       bool
+	pretty      bool
+	completions bool // この変数を追加
 )
 
 // rootCmd represents the base command when called without any subcommands
@@ -81,4 +82,6 @@ func init() {
 	rootCmd.Flags().BoolVarP(&color, "color", "c", false, "Show colorized output")
 	rootCmd.Flags().BoolVarP(&brief, "brief", "b", false, "Print a simple message")
 	rootCmd.Flags().BoolVarP(&pretty, "pretty", "p", false, "Print diff with indentation and formatting")
+	rootCmd.Flags().BoolVarP(&completions, "generate-completions", "", false, "generate completions")
+	rootCmd.Flags().MarkHidden("generate-completions")
 }

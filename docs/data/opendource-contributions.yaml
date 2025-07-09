@@ -1,0 +1,8 @@
+- title: Difson
+  description: difon is a CLI tool to compare two JSON files and show their differences clearly
+  owner: difson
+  username: difson
+  reponame: difson
+  website: https://github.com/sorahashiroi/difson
+  issues:
+  pulls:

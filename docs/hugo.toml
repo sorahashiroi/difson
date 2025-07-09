@@ -1,0 +1,4 @@
+baseURL = 'https://sorahashiroi.github.io/difson/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "saral"
