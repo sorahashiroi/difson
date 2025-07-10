@@ -115,3 +115,13 @@ go.work.sum
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+/docs/.hugo_build.lock
+/docs/public
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-workspace
