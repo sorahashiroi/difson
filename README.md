@@ -45,4 +45,4 @@ Contributions, issues, and feature suggestions are welcome!
 - [Mizuki Yamano](https://github.com/sorahashiroi)
 
 ## Icon
-![Difson Icon](./docs/assets/logo.png "difson Icon")
+<img src="./docs/assets/logo.png" alt="difson Icon" title="difson Icon" width="50"/>
