@@ -20,9 +20,10 @@ OPTIONS:
 ```
 
 ## :file_folder: Installation
+
 ```sh
 brew install sorahashiroi/tap/difson
-```sh
+```
 
 ## :label: About
 `difson` was built to make it easy to compare JSON files in a human-readable way.
