@@ -3,6 +3,7 @@ Compare JSON files with ease
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue "MIT License")
 [![Go Report Card](https://goreportcard.com/badge/github.com/sorahashiroi/difson)](https://goreportcard.com/report/github.com/sorahashiroi/difson)[![Coverage Status](https://coveralls.io/repos/github/sorahashiroi/difson/badge.svg)](https://coveralls.io/github/sorahashiroi/difson)
+[![DOI](https://zenodo.org/badge/964324284.svg)](https://doi.org/10.5281/zenodo.15363436)
 
 ## :pushpin: Overview
 **difson** is a CLI tool to compare two JSON files and show their differences clearly
@@ -19,6 +20,9 @@ OPTIONS:
 ```
 
 ## :file_folder: Installation
+```sh
+brew install sorahashiroi/tap/difson
+```sh
 
 ## :label: About
 `difson` was built to make it easy to compare JSON files in a human-readable way.
